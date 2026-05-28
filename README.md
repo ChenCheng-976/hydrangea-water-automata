@@ -20,14 +20,11 @@ This project treats the canvas as a living field. Each cell stores color, water,
 
 ## Gallery
 
-![Stage5 Growth](to be released soon...)
-*Neural CA growth animation.*
+*Neural CA growth animation.* (to be released soon...)
 
-![Stage10 Koi](to be released soon...)
-*Koi swimming layer.*
+*Koi swimming layer.* (to be released soon...)
 
-![Cinematic Scene](to be released soon...)
-*Final artistic vision.*
+*Final artistic vision.* (to be released soon...)
 
 ## Run Locally
 
