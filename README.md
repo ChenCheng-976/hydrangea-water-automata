@@ -1,6 +1,6 @@
 # Hydrangea Water Automata 🌸🐟
 
-![Hero](assets/hero.png)
+![Hero](assets/Envision_260528.png)
 
 A living generative artwork: endless hydrangea fields under glass-like water, sunlight reflections, and koi fish swimming gracefully.
 
@@ -20,19 +20,19 @@ This project treats the canvas as a living field. Each cell stores color, water,
 
 ## Gallery
 
-![Stage5 Growth](assets/stage5_growth_result.gif)
+![Stage5 Growth](to be released soon...)
 *Neural CA growth animation.*
 
-![Stage10 Koi](assets/stage10_koi_demo.gif)
+![Stage10 Koi](to be released soon...)
 *Koi swimming layer.*
 
-![Cinematic Scene](assets/Evision_260528.png)
+![Cinematic Scene](to be released soon...)
 *Final artistic vision.*
 
 ## Run Locally
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git clone https://github.com/Cheng/hydrangea-water-field.git
 cd YOUR_REPO
 python3 -m venv .venv
 source .venv/bin/activate
