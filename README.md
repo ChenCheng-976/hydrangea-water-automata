@@ -32,7 +32,7 @@ This project treats the canvas as a living field. Each cell stores color, water,
 ## Run Locally
 
 ```bash
-git clone https://github.com/Cheng/hydrangea-water-field.git
+git clone https://github.com/Cheng/hydrangea-water-automata.git
 cd YOUR_REPO
 python3 -m venv .venv
 source .venv/bin/activate
