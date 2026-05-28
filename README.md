@@ -1,6 +1,6 @@
 # Hydrangea Water Automata 🌸🐟
 
-![Hero](assets/Evision_260528.png)
+![Hero](assets/Evision_260529.png)
 
 A living generative artwork: endless hydrangea fields under glass-like water, sunlight reflections, and koi fish swimming gracefully.
 
