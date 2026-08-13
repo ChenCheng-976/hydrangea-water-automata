@@ -9,14 +9,8 @@ A living generative artwork: endless hydrangea fields under glass-like water, su
 This project treats the canvas as a living field. Each cell stores color, water, bloom energy, and hidden neural states. Local neural rules create hydrangea-like structures, ripples, mist, and liquid light.
 
 ## Steps / Stages
+(to be released soon...)
 
-1. **Procedural Water Field** – Generate initial 2D color & water grid.
-2. **Hydrangea CA** – Basic cellular automata grow flower clusters.
-3. **Neural CA Training** – Neural network learns to reproduce target hydrangea images.
-4. **Cinematic Rendering** – Apply glass-water, sunlight, petals, and mist.
-5. **Koi Layer** – Animated fish swim over the water.
-6. **Interactive Recording** – Capture GIF/MP4 sessions of the living canvas.
-7. **Artistic Polishing** – Adjust color, caustics, and lighting for art-like feel.
 
 ## Gallery
 
